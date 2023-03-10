@@ -14,7 +14,7 @@ def send_message():
         text = m_input.text.get(),
         font = m_input.font_size
     )
-    button_label.place(x =700, y = 450, anchor = ctk.CENTER)
+    button_label.place(x = 700, y = 450, anchor = ctk.CENTER)
 
 
 

@@ -1,6 +1,5 @@
 import customtkinter
 import modules.create_frame as m_frame
-import modules.button_send as m_button
 #
 class App(customtkinter.CTk):
     def __init__(self,app_width,app_height):
